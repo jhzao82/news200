@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>新闻200</title>
-    <description>你想知道的新闻。</description>
+    <description>这里有你想知道的新闻。</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 24 Jul 2018 13:56:49 +0800</pubDate>
-    <lastBuildDate>Tue, 24 Jul 2018 13:56:49 +0800</lastBuildDate>
+    <pubDate>Tue, 24 Jul 2018 14:10:16 +0800</pubDate>
+    <lastBuildDate>Tue, 24 Jul 2018 14:10:16 +0800</lastBuildDate>
     <generator>Jekyll v3.8.3</generator>
     
       <item>
